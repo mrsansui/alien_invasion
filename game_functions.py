@@ -1,4 +1,5 @@
 import  pygame
+
 def update_screen(ai_settings, screen, ship, alien,bullets):
 
     for bullet in bullets:
